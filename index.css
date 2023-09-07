@@ -1,0 +1,28 @@
+body {background-color: rgb(0, 0, 0);}
+body {background-image: url(https://img.freepik.com/free-vector/abstract-digital-grid-vector-black-background_53876-111550.jpg);
+height:100%;
+background-position:center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+ } 
+ img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ p{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+ }
+button{
+  cursor: pointer;
+}
